@@ -1,3 +1,7 @@
+# ⛔️ DEPRECATED
+
+Please use [@sheetbase/jsrsasign-server](https://github.com/sheetbase/jsrsasign-server).
+
 # Jsrsasign
 
 Using **jsrsasign** in Google Apps Script.
